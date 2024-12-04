@@ -1,0 +1,5 @@
+.vscode/
+build/
+build
+.DS_Store
+dataset/inputs/*
